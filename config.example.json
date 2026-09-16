@@ -1,0 +1,14 @@
+{
+  "api_key": "",
+  "api_base": "https://api.deepseek.com",
+  "character_png": "",
+  "scale": 0.7,
+  "x": null,
+  "y": null,
+  "always_on_top": true,
+  "auto_refresh_seconds": 0,
+  "refresh_on_start": true,
+  "snap_enabled": true,
+  "snap_distance": 72,
+  "start_centered": true
+}
